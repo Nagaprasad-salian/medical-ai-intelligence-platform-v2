@@ -3,7 +3,6 @@ __pycache__/
 .env
 *.db
 data/
-saved_models/*.pt
 static/gradcam/*.png
 .DS_Store
 venv/
