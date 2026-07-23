@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.db
+data/
+saved_models/*.pt
+static/gradcam/*.png
+.DS_Store
+venv/
+.venv/
+*.egg-info/
